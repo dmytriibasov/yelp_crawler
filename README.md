@@ -26,3 +26,7 @@ To use this crawler, follow next steps:
 scrapy crawl yelp_crawl yelp_crawler -a location="Your Location" -a category="Your Category"
 ```
 2. The crawler will scrape data from Yelp business listings and stream it into a JSON file.
+
+***
+## Results
+The included JSON file is an example, of the data to be scrapped and how it would be structured.
