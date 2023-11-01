@@ -6,8 +6,10 @@ business listings.
 
 ***
 ## Installation
-1. Clone this repository to your local machine.  
-[clone repository](https://github.com/dmytriibasov/yelp_crawler.git)
+1. Clone this repository to your local machine.
+```shell
+git clone https://github.com/dmytriibasov/yelp_crawler.git
+```
 2. Navigate to the project directory:  
 ```shell 
 cd yelp_crawling
